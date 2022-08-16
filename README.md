@@ -2,7 +2,7 @@
 
 - 项目结构
 
-
+![image](https://github.com/williamWANG0325/bluebell/blob/main/projectStruct.png?raw=true)
 
 - 目录结构
 
